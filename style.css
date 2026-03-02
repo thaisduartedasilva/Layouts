@@ -17,4 +17,7 @@
  .flex{
     display: flex;
  }
- 
+ .red{
+    background-color: rgb(202, 39, 39);
+    padding-right: 80px;
+ }

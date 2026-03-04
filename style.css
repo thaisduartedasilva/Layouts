@@ -8,6 +8,7 @@
     background-color: rgb(86, 159, 255);
     padding: 20px;
     margin: 30px;
+    
  }  
  .yo{
     background-color: rgb(221, 236, 8);
@@ -59,6 +60,6 @@
 }
 .tam{
    background-color: rgb(202, 39, 39);
-    padding-bottom: 80px;
+   padding-bottom: 10px;
 }
 
